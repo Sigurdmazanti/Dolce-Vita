@@ -1,0 +1,21 @@
+/* Baggrund */
+body {
+background: rgb(36,82,168);
+background: linear-gradient(312deg, rgba(36,82,168,1) 0%, rgba(99,168,237,0.6558998599439776) 77%);
+}
+
+/* Logo */
+.title logo {
+    width: 32px;
+    height: 32px;
+}
+/* Header overskrift */
+h1 {
+    font-family: 'Josefin Sans', serif;
+    color: white;
+    font-size: 39px;
+    
+}
+
+
+
